@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fernet (2.3)
+      valcro (~> 0.1)
+    ocra (1.3.11)
+    valcro (0.1.1)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  fernet (~> 2.3)
+  ocra (~> 1.3, >= 1.3.11)
+
+BUNDLED WITH
+   2.2.3
